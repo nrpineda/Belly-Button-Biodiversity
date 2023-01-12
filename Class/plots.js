@@ -1,5 +1,5 @@
 // This code creates a line chart with one single line of code:
-//Plotly.newPlot("plotArea", [{x: [1, 2, 3], y: [10, 20, 30]}]);
+Plotly.newPlot("plotArea", [{x: [1, 2, 3], y: [10, 20, 30]}]);
 
 
 // This code creates a bar graph using JavaScript
